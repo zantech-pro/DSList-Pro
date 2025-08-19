@@ -67,7 +67,9 @@ O projeto foi organizado por pacotes seguindo **Domain-Driven Design (DDD)**:
 
 5. **Consumo da API via Postman**  
    - Teste dos endpoints REST usando o Postman, verificando que os dados da entidade `Game` eram retornados corretamente.  
-   - Aprendizado sobre como consumir APIs REST, testar rotas e analisar respostas JSON.  
+   - Aprendizado sobre como consumir APIs REST, testar rotas e analisar respostas JSON.
+   - <img width="1493" height="806" alt="image" src="https://github.com/user-attachments/assets/7f28cfb2-3e26-488c-8fbd-6d02ade6a4cc" />
+
 
 ---
 
